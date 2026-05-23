@@ -50,15 +50,15 @@ npx expo start
 
 ### Home Screen
 
-![Home Screen](assets/screenshots/HomeScreen.jpeg)
+![Home Screen](HomeScreen.jpeg)
 
 ### Search Screen
 
-![Search Screen](assets/screenshots/SearchScreen.jpeg)
+![Search Screen](SearchScreen.jpeg)
 
 ### Favorites Screen
 
-![Favorites Screen](assets/screenshots/FavoriteScreen.jpeg)
+![Favorites Screen](FavoriteScreen.jpeg)
 
 ## Author
 
