@@ -49,7 +49,7 @@ npx expo start
 ## Screenshots
 
 ### Home Screen
-HomeScreen.jpeg
+[HomeScreen.jpeg]
 
 ### Search Screen
 SearchScreen.jpeg
