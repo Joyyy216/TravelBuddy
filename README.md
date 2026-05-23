@@ -5,12 +5,12 @@ Travel Buddy adalah aplikasi mobile berbasis React Native dan Expo yang membantu
 ## Features
 
 - Bottom Tab Navigation (Beranda, Cari, Favorit)
-- Stack Navigator (Beranda → Detail Destinasi)
+- Stack Navigation (Beranda → Detail Destinasi)
 - Pencarian destinasi wisata
-- Menampilkan detail destinasi lengkap
+- Detail destinasi lengkap
 - Add to Favorite & Remove Favorite
-- Badge jumlah favorit pada tab Favorit
-- FlatList untuk menampilkan daftar destinasi
+- Badge jumlah favorit
+- FlatList untuk menampilkan destinasi
 - Route Params untuk mengirim data antar screen
 - Responsive UI dengan tema biru modern
 - Icon menggunakan @expo/vector-icons
