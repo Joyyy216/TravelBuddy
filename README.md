@@ -49,13 +49,13 @@ npx expo start
 ## Screenshots
 
 ### Home Screen
-(HomeScreen.jpeg)
+HomeScreen.jpeg
 
 ### Search Screen
-(SearchScreen.jpeg)
+SearchScreen.jpeg
 
 ### Favorites Screen
-(FavoriteScreen.jpeg)
+FavoriteScreen.jpeg
 
 ## Author
 
